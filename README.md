@@ -1,6 +1,7 @@
 # llfEnglish--info
 llfEnglish--个人英语单词数据库描述
   + java后端
+    - [根模块(mapper+entity+工具类)](https://github.com/kkzxm/llfEnglishRoot)   
     - [管理员后端](https://github.com/kkzxm/llfEnglish)
     - [前置页面后端](https://github.com/kkzxm/llfenglishfront)
   + vue前端
